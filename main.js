@@ -47,13 +47,4 @@ function updateTable(responseText) {
         disposed.appendChild(tbody);
     }
 
-    //打印合并后的数据是否对？！
-    // for (var i = 0; i < columnDatas.length; i++) {
-    //     console.log(
-    //         columnDatas[i].id + "....." +
-    //         columnDatas[i].classifyName + "....." +
-    //         columnDatas[i].aa + "....." +
-    //         columnDatas[i].bb + "....."
-    //     )
-    // };
 }
